@@ -1,0 +1,5 @@
+C:\Users\TEFYTA\Desktop\Alumnos\obj\Debug\net5.0\Alumnos.csprojAssemblyReference.cache
+C:\Users\TEFYTA\Desktop\Alumnos\obj\Debug\net5.0\Alumnos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TEFYTA\Desktop\Alumnos\obj\Debug\net5.0\Alumnos.AssemblyInfoInputs.cache
+C:\Users\TEFYTA\Desktop\Alumnos\obj\Debug\net5.0\Alumnos.AssemblyInfo.cs
+C:\Users\TEFYTA\Desktop\Alumnos\obj\Debug\net5.0\Alumnos.csproj.CoreCompileInputs.cache
